@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "type": "react",
+    "name": "personal-card",
+    "description": "Crafted a personal card using the React framework as part of my early learning journey in React",
+    "img": "personal-card.png",
+    "link": "https://abdelrhman-shibl44.github.io/Personal_Card_React/",
+    "sort_order": 100,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "type": "react",
+    "name": "Facts-about-react",
+    "description": "As part of my early journey in learning React, developed a web page using React with a dark mode button, showcasing information about React.",
+    "img": "facts-about-react.png",
+    "link": "https://abdelrhman-shibl44.github.io/facts-about-react/",
+    "sort_order": 99,
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "type": "react",
+    "name": "My-Reads",
+    "description": "Created a Reads app with two pages: one for organizing books into three sections (currently reading, will read, and read) using React components and useEffect, and another for searching and updating books via an API, showcasing proficiency in React, state management, and API integration for an interactive book tracking experience.",
+    "img": "My-reads.png",
+    "link": "https://abdelrhman-shibl44.github.io/my-reads-app/",
+    "sort_order": 95,
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "type": "react",
+    "name": "My-travel-journal",
+    "description": "Built a travel journal web app using React components as part of my early journey in learning React, providing a platform to capture and store memories of my travel experiences.",
+    "img": "my-travel-jounal.png",
+    "link": "https://abdelrhman-shibl44.github.io/mytravel-journal/",
+    "sort_order": 97,
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "type": "react",
+    "name": "Airbnb",
+    "description": "Built an Airbnb-inspired web page using React components and grid layout, showcasing front-end development skills and modern web design techniques during my early journey in learning React.",
+    "img": "Airbnb.png",
+    "link": "https://abdelrhman-shibl44.github.io/airbnb_react/",
+    "sort_order": 96,
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "type": "react",
+    "name": "Brand Movies",
+    "description": "I built a movies website using React with features such as movie search, movie categories, support for multiple languages (Arabic and English), a favorite movies page, and a signup form. The website utilizes components, useEffect, and Context API for state management.",
+    "img": "movies-app.png",
+    "link": "https://lucent-croissant-d30fdd.netlify.app/",
+    "sort_order": 94,
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "type": "jQuery",
+    "name": "Small-Projects",
+    "description": "created a series of small projects to enhance my skills in jQuery. These projects include a slide show, a to-do list, a layer animation, form validation, and a skills section with animations, among others. These projects allowed me to practice using jQuery to create interactive and dynamic web elements, further honing my front-end development skills.",
+    "img": "small-projects.png",
+    "link": "https://abdelrhman-shibl44.github.io/small-projects-jquery/",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "type": "bootstrap",
+    "name": "Bondi",
+    "description": "Created Bondi website as part of my training on Bootstrap and Wow.js library. The website features a modern and responsive design using Bootstrap's CSS framework, along with engaging animations and effects powered by Wow.js, creating an immersive user experience.",
+    "img": "bondi.png",
+    "link": "https://abdelrhman-shibl44.github.io/bondi-project/",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "type": "html&css",
+    "name": "Leon",
+    "description": "Crafting a Stunning Website Inspired by the Leon Project Template with CSS Grid, HTML, and Responsive Design Techniques for a Visually Striking.",
+    "img": "leon.png",
+    "link": "https://abdelrhman-shibl44.github.io/Leon-project/",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "type": "html&css",
+    "name": "Kasper",
+    "description": "Emulating the Kasper Project with CSS Grid, Display Flex, and Advanced Hover Effects, Showcasing My Web Development Skills in Creating Visually Dynamic and Responsive Websites.",
+    "img": "kasper.png",
+    "link": "https://abdelrhman-shibl44.github.io/kasper-project/",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": 11,
+    "type": "html&css",
+    "name": "ChillAid",
+    "description": "Replicating the ChillAid Template with CSS Grid for Organized Layouts, Creating a Seamless User Experience across Devices, Showcasing My Expertise in Modern Front-End Technologies.",
+    "img": "chill-aid.png",
+    "link": "https://abdelrhman-shibl44.github.io/ChillAid/",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "type": "html&css",
+    "name": "composition-template",
+    "description": "Composition project built with Sass and Gulp.js. Responsive template demonstrating best practices for front-end development, including optimized code and flexible design.",
+    "img": "compostion.png",
+    "link": "https://abdelrhman-shibl44.github.io/composition/dist/",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": 13,
+    "type": "javascript",
+    "name": "Elshibl-Restaurant",
+    "description": "Developed a restaurant website with AJAX, JavaScript, and SPA architecture, showcasing proficiency in front-end web development. Created dynamic and interactive web pages with seamless user experience, demonstrating skills in SPA design patterns.",
+    "img": "Elshibl-Restaurant.png",
+    "link": "https://helpful-faloodeh-1da041.netlify.app/",
+    "sort_order": 1,
+    "status": "active"
+  },
+  {
+    "id": 14,
+    "type": "javascript",
+    "name": "Landing-Page",
+    "description": "Created a landing page using HTML, CSS, and JavaScript as part of my learning journey on Udacity. Demonstrated proficiency in front-end web development, showcasing my skills in designing responsive and interactive web pages.",
+    "img": "landing-page.png",
+    "link": "https://abdelrhman-shibl44.github.io/landing-page/",
+    "sort_order": 2,
+    "status": "active"
+  },
+  {
+    "id": 15,
+    "type": "javascript",
+    "name": "Weather-journal-app",
+    "description": "Developed a weather journal app using HTML, CSS, JavaScript, and Node.js during my Udacity learning journey, showcasing full-stack web development skills. Created a dynamic app for tracking weather information, demonstrating proficiency in front-end design and back-end programming.",
+    "img": "weather-journal-app.png",
+    "link": "https://weather-journal-app-5pft.onrender.com/",
+    "sort_order": 3,
+    "status": "active"
+  },
+  {
+    "id": 16,
+    "type": "javascript",
+    "name": "speed words",
+    "description": "developed a speed words game with three challenging levels that include time constraints, using local storage to save the chosen level even after page refreshes. Players can test their word skills against the clock, choosing from different difficulty levels.",
+    "img": "speed word.png",
+    "link": "https://abdelrhman-shibl44.github.io/speed-words/",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": 17,
+    "type": "javascript",
+    "name": "Talent Trek",
+    "description": "I developed a website called \"Talent Trek\" as part of my training on JavaScript, focusing on local storage and event listeners. The website features a dynamic sidebar that allows users to control various aspects of the page, such as changing colors, showing navigation bullets, and changing images, providing an interactive and customizable user experience.",
+    "img": "talent trek.png",
+    "link": "https://abdelrhman-shibl44.github.io/Talent-Trek/",
+    "sort_order": 4,
+    "status": "active"
+  },
+  {
+    "id": 18,
+    "type": "javascript",
+    "name": "X O Game",
+    "description": "developed a \"X O\" game using JavaScript and session storage for game state management. The game allows players to compete against each other in a classic \"X O\" game, with the ability to save and restore game progress using session storage, providing a seamless and interactive gaming experience.",
+    "img": "X O Game.png",
+    "link": "https://abdelrhman-shibl44.github.io/XO-game/",
+    "sort_order": 6,
+    "status": "active"
+  },
+  {
+    "id": 19,
+    "type": "javascript",
+    "name": "memory-game",
+    "description": "A Dynamic Web Game with Functions and Classes! Flip Cards, Test Your Memory, and Challenge Yourself to Complete the Game with Only 7 Mistakes Allowed. Built with HTML, CSS, and JavaScript.",
+    "img": "memoryGame.png",
+    "link": "https://abdelrhman-shibl44.github.io/memory-game/",
+    "sort_order": 7,
+    "status": "active"
+  },
+  {
+    "id": 20,
+    "type": "javascript",
+    "name": "50-Projects",
+    "description": "I built 50 JavaScript projects for training purposes, including slideshows, to-do lists, animations on page load, API data retrieval, and more. These projects helped me enhance my JavaScript skills and gain practical experience in implementing different concepts and techniques.",
+    "img": "50-projects.png",
+    "link": "https://abdelrhman-shibl44.github.io/50-Projects/",
+    "sort_order": 5,
+    "status": "active"
+  },
+  {
+    "id": 21,
+    "type": "react",
+    "name": "Meme-Generator",
+    "description": "Built a meme generator web app using React, allowing users to add custom top and bottom text to a random image with a click of a button.",
+    "img": "Meme-Generator.png",
+    "link": "https://abdelrhman-shibl44.github.io/meme-generator/",
+    "sort_order": 98,
+    "status": "active"
+  }
+]
