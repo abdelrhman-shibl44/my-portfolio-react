@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.17caeb96.css",
+    "main.js": "./static/js/main.5b93b472.js",
+    "static/media/mysql.png": "./static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/react.png": "./static/media/react.65ca18b4e9841f85a691.png",
+    "static/media/ajax.png": "./static/media/ajax.ed32e41ef7b134f34280.png",
+    "static/media/git&Github.jpeg": "./static/media/git&Github.c3c22e534012fa85f18f.jpeg",
+    "static/media/bootstrap.png": "./static/media/bootstrap.cd8247d9fc73c8160451.png",
+    "static/media/JavaScript-logo.png": "./static/media/JavaScript-logo.962f06fd9db80f9f38ce.png",
+    "static/media/nodeJs.png": "./static/media/nodeJs.e71346fe0fec16ec5f6e.png",
+    "static/media/Html.png": "./static/media/Html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/sass.png": "./static/media/sass.1e7800226257cf0a44bf.png",
+    "index.html": "./index.html",
+    "main.17caeb96.css.map": "./static/css/main.17caeb96.css.map",
+    "main.5b93b472.js.map": "./static/js/main.5b93b472.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17caeb96.css",
+    "static/js/main.5b93b472.js"
+  ]
+}
