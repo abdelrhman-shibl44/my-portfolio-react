@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.17caeb96.css",
-    "main.js": "./static/js/main.5b93b472.js",
+    "main.css": "./static/css/main.e9784366.css",
+    "main.js": "./static/js/main.1ae1d3e2.js",
     "static/media/mysql.png": "./static/media/mysql.167c88550478e6f0f85c.png",
     "static/media/react.png": "./static/media/react.65ca18b4e9841f85a691.png",
-    "static/media/ajax.png": "./static/media/ajax.ed32e41ef7b134f34280.png",
+    "static/media/ajax.png": "./static/media/ajax.8a773182ff166537d3e7.png",
+    "static/media/jQuery.png": "./static/media/jQuery.bb282bf2fc624347af15.png",
+    "static/media/Html.png": "./static/media/Html.9ba5683e5bf3666e5666.png",
     "static/media/git&Github.jpeg": "./static/media/git&Github.c3c22e534012fa85f18f.jpeg",
     "static/media/bootstrap.png": "./static/media/bootstrap.cd8247d9fc73c8160451.png",
-    "static/media/JavaScript-logo.png": "./static/media/JavaScript-logo.962f06fd9db80f9f38ce.png",
+    "static/media/JavaScript-logo.png": "./static/media/JavaScript-logo.b71e8ee4c48d0d9b11a6.png",
     "static/media/nodeJs.png": "./static/media/nodeJs.e71346fe0fec16ec5f6e.png",
-    "static/media/Html.png": "./static/media/Html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/css.png": "./static/media/css.da0d2b2224b9dc2c50d8.png",
     "static/media/sass.png": "./static/media/sass.1e7800226257cf0a44bf.png",
-    "index.html": "./index.html",
-    "main.17caeb96.css.map": "./static/css/main.17caeb96.css.map",
-    "main.5b93b472.js.map": "./static/js/main.5b93b472.js.map"
+    "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.17caeb96.css",
-    "static/js/main.5b93b472.js"
+    "static/css/main.e9784366.css",
+    "static/js/main.1ae1d3e2.js"
   ]
 }
