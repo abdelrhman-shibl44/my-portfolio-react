@@ -18,7 +18,6 @@
     .canvas{
       background: transparent;
       transition: 0.7s;
-      // touch-action: pan-y !important;
       @media(max-width:991px) {
           width: 160px  !important;
           height:160px !important ;
