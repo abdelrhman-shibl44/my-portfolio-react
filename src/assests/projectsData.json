@@ -55,7 +55,7 @@
     "name": "Brand Movies",
     "description": "I built a movies website using React with features such as movie search, movie categories, support for multiple languages (Arabic and English), a favorite movies page, and a signup form. The website utilizes components, useEffect, and Context API for state management.",
     "img": "movies-app.png",
-    "link": "https://lucent-croissant-d30fdd.netlify.app/",
+    "link": "https://6453bd016a4e563077bee933--magenta-otter-d837f9.netlify.app/",
     "sort_order": 94,
     "status": "active"
   },
